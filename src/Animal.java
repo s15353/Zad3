@@ -1,13 +1,13 @@
 public class Animal {
     public void sleep() {
-        System.out.println("The animal is sleeping.");
+        System.out.println("Spi.");
     }
 
     public void makeNoise() {
-        System.out.println("Some generic animal noise.");
+        System.out.println("Wydaje glos.");
     }
 
     public void roam() {
-        System.out.println("The animal is roaming around.");
+        System.out.println("Chodzi.");
     }
 }
