@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        Car myCar = new Car(7);
+        Animal[] animals = {new Lion(), new Cat(), new Wolf(), new Dog()};
 
-        myCar.start();
-        myCar.stop();
-
-        System.out.println("Liczba miejsc w samochodzie: " + myCar.getNumberOfSeats());
+        for (Animal animal : animals) {
+            animal.makeNoise();
+        }
     }
 }

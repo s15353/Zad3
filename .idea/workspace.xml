@@ -28,7 +28,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/s15353/Zad1.git",
+    "url": "https://github.com/s15353/Zad2.git",
     "accountId": "62ed0576-e2dc-4490-9222-452a38939cf8"
   }
 }]]></component>
@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748621002290</updated>
-      <workItem from="1748621003313" duration="1283000" />
+      <workItem from="1748621003313" duration="1590000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <option name="closed" value="true" />
